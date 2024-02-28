@@ -1,1 +1,2 @@
 # odin-recipes
+The aim of this project is to showcase fundamental HTML knowledge by creating the initial structure for a recipe website. This basic structure will be expanded upon as more web development topics are introduced.
