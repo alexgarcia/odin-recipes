@@ -1,0 +1,12 @@
+* {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(241, 232, 232);
+}
+
+.recipe-title {
+    text-align: center;
+}
+
+.recipe-list__index {
+    list-style-type: none;
+}
